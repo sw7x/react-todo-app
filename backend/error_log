@@ -1,0 +1,25 @@
+[18-Oct-2019 15:51:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/susnatha/todolist.susnathaonline.com/backend/index.php:150
+Stack trace:
+#0 /home/susnatha/todolist.susnathaonline.com/backend/index.php(57): select2(NULL)
+#1 {main}
+  thrown in /home/susnatha/todolist.susnathaonline.com/backend/index.php on line 150
+[18-Oct-2019 15:53:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/susnatha/todolist.susnathaonline.com/backend/index.php:150
+Stack trace:
+#0 /home/susnatha/todolist.susnathaonline.com/backend/index.php(57): select2(NULL)
+#1 {main}
+  thrown in /home/susnatha/todolist.susnathaonline.com/backend/index.php on line 150
+[18-Oct-2019 15:53:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/susnatha/todolist.susnathaonline.com/backend/index.php:150
+Stack trace:
+#0 /home/susnatha/todolist.susnathaonline.com/backend/index.php(57): select2(NULL)
+#1 {main}
+  thrown in /home/susnatha/todolist.susnathaonline.com/backend/index.php on line 150
+[18-Oct-2019 15:54:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/susnatha/todolist.susnathaonline.com/backend/index.php:153
+Stack trace:
+#0 /home/susnatha/todolist.susnathaonline.com/backend/index.php(57): select2(NULL)
+#1 {main}
+  thrown in /home/susnatha/todolist.susnathaonline.com/backend/index.php on line 153
+[27-Nov-2021 06:03:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/susanth3/todolist.susanthaonline.xyz/backend/index.php:165
+Stack trace:
+#0 /home/susanth3/todolist.susanthaonline.xyz/backend/index.php(67): select2(NULL)
+#1 {main}
+  thrown in /home/susanth3/todolist.susanthaonline.xyz/backend/index.php on line 165
